@@ -16,7 +16,6 @@ public class RegisterTest
 		obj=new Register();
 	}
 	
-
 	@Test
 	public void testaverage() {
 		assertEquals(5,obj.average(x,y,z));
