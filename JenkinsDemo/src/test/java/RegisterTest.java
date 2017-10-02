@@ -8,7 +8,8 @@ public class RegisterTest
 	Register obj;
 	int x,y,z;
 	@Before
-	public void setUp() throws Exception {
+	public void setUp() throws Exception 
+	{
 		x=5;
 		y=6;
 		z=4;
