@@ -31,4 +31,8 @@ public class RegisterTest
 			assertEquals(5,obj.average(x,y,z));
 				}
 	
+	@Test
+	public void testaverage3() {
+		assertEquals(5,obj.average(x,y,z));
+			}
 }
